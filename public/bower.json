@@ -1,0 +1,35 @@
+{
+  "name": "public",
+  "version": "0.0.0",
+  "description": "website assets",
+  "moduleType": [
+    "amd",
+    "node"
+  ],
+  "keywords": [
+    "laravel",
+    "experiments"
+  ],
+  "authors": [
+    "Gede Lumbung"
+  ],
+  "license": "MIT",
+  "homepage": "http://gedelumbung.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+    "dependencies": {
+        "jquery": "1.10.2",
+        "angular": "1.2.9",
+        "angular-route": "1.2.9",
+        "sass-bootstrap": "3.0.2",
+        "angular-resource": "1.2.9",
+        "angular-cookies": "1.2.9",
+        "angular-sanitize": "1.2.9",
+        "angular-bootstrap": "0.10.0"
+    }
+}
